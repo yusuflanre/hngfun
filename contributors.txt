@@ -20,9 +20,11 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (18) Michael Okoh, @trojan, ichtrojan
 (19) David Ukauwa
 (20) Andrew Ugbechie, (slack: @andrewugbechie) (github: @DREW-certified)
-
-
-
-
- Oreoluwa Ojo (slack: @ogbeniore) (github: @OreoluwaOjo)
-
+(21) Ijaware Tiwaloluwa (slack: tiwaloluu) (github: tiwalolu)
+(22) Emmanuel Awotunde, @olaoluwa_98, @olaoluwa-98
+(23) Usheninte Dangana [github: @Usheninte] [slack: @ninte]
+(24) Daniella Mato, @daniella, dmpire
+(25) Ademola Abisayo Paul, @sayopaul , sayopaul2
+(26) Akinlolu Gbemisola John, (slack: @akinlolugbemisola) (github: G-oracle)
+(26) Ojo Oreoluwa Victor, (slack: @ogbeniore) (github: @OreoluwaOjo)
+>>>>>>> 3e21b3c8b81172a85f5af7f33f864075a5444e6a
