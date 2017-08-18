@@ -23,3 +23,14 @@
 (17) Adegbola Simeon
 (18) Michael Okoh, @trojan, ichtrojan
 (19) David Ukauwa
+<<<<<<< HEAD
+=======
+(20) Andrew Ugbechie, (slack: @andrewugbechie) (github: @DREW-certified)
+(21) Ijaware Tiwaloluwa (slack: tiwaloluu) (github: tiwalolu)
+(22) Emmanuel Awotunde, @olaoluwa_98, @olaoluwa-98
+(23) Usheninte Dangana [github: @Usheninte] [slack: @ninte]
+(24) Daniella Mato, @daniella, dmpire
+(25) Ademola Abisayo Paul, @sayopaul , sayopaul2
+(26) Enyi-Christopher Joshua, christofajosh, christofajosh 
+(27) Akunne Obinna, (slack : obinna_akunne), (github: thirdwrist)
+>>>>>>> 0ad6cf3c07696984b8c546b8f77bb8ce3ce97830
