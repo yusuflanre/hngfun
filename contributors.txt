@@ -4,7 +4,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (3) Richard Umoffia (github: hackafro) (slack: richyafro)
 (4) Fregene Efe-Uririn, efefregene, efefregene 
 (5) Joe-smith Essang
-(6) Chinke Ifeyinwa Ruth
+(6) Chinke Ifeyinwa Ruth (github: eephie) (slack: ifychinke)
 (7) Sam Esidem
 (8) Toluwalope Yussuff
 (9) Damilola Shofoluwe
