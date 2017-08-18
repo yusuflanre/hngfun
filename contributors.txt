@@ -37,5 +37,6 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (36) Olatunbosun Gabriel, @bosunski, bosunski
 (37) Alexandrix Ikechukwu, cornevan, SpaghettiThots
 (38) Donald Mezie slack:@snowweb , Github:Nobsmoke123
-(39) Ukeje Kingsley Ugochukwu (github: swissking009, slack: rogue.kvng) 
+(39) Ukeje Kingsley Ugochukwu (github: swissking009, slack: rogue.kvng)
+(40) Chike Ononye, @chykeofficial, kosychike 
 
