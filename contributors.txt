@@ -26,8 +26,11 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (25) Enyi-Christopher Joshua, christofajosh, christofajosh 
 (25) Ademola Abisayo Paul, @sayopaul , sayopaul2
 (26) Akinlolu Gbemisola John, (slack: @akinlolugbemisola) (github: G-oracle)
-Ojo Oreoluwa Victor, (slack: @ogbeniore) (github: @OreoluwaOjo)
+
 Okwu Joscelyn Kinikachi, slack: joscelyn56, github: joscelyn56
+
+
+Ojo Oreoluwa Victor, (slack: @ogbeniore) (github: @OreoluwaOjo)
 
 
 Prosper Nweze [github:@prosperoking] [slack:@prosperoking]
