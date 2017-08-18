@@ -6,7 +6,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (5) Joe-smith Essang
 (6) Chinke Ifeyinwa Ruth (github: eephie) (slack: ifychinke)
 (7) Sam Esidem
-(8) Toluwalope Yussuff
+(8) Toluwalope Yussuff, tody, to-dy
 (9) Damilola Shofoluwe
 (10) Joe-smith Essang
 (11) Emmanuel Promise Ozibo
