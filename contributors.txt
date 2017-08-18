@@ -20,5 +20,9 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (18) Michael Okoh, @trojan, ichtrojan
 (19) David Ukauwa
 (20) Andrew Ugbechie, (slack: @andrewugbechie) (github: @DREW-certified)
-(21) Oreoluwa Ojo (slack: @ogbeniore) (github: @OreoluwaOjo)
+
+
+
+
+ Oreoluwa Ojo (slack: @ogbeniore) (github: @OreoluwaOjo)
 
