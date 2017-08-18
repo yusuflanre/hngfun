@@ -13,8 +13,5 @@
 (13) John Otu
 (14) Alaba Mustapha
 (15) Adeshina Ibrahim
-<<<<<<< HEAD
 (16) Ogunbadejo Lateef
-=======
 (17) Adegbola Simeon
->>>>>>> added my name
