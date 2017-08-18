@@ -1,5 +1,7 @@
+
 name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer" 
 (1) Nwanze Franklin, franko4don, @franko4don
+(1) Nwanze Franklin
 (2) Dare Sunday
 (3) Richard Umoffia (github: hackafro) (slack: richyafro)
 (4) Fregene Efe-Uririn, efefregene, efefregene 
@@ -39,3 +41,8 @@ Okwu Joscelyn Kinikachi, slack: joscelyn56, github: joscelyn56
 
 Prosper Nweze [github:@prosperoking] [slack:@prosperoking]
 
+(27) Okunniga Tosin, (github: Teegold007) (slack:teegoldz)
+(28) Olatunbosun Gabriel, @bosunski, bosunski
+(29) Alexandrix Ikechukwu, cornevan, SpaghettiThots
+(30) Donald Mezie slack:@snowweb , Github:Nobsmoke123
+>>>>>>> 4d05fc287605cb57a15a48a97c6ae5d68f7240cc
