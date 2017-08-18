@@ -7,6 +7,5 @@
 (7) Sam Esidem
 (8) Toluwalope Yussuff
 (9) Damilola Shofoluwe
-(10) Sam Esidem
-(11) Joe-smith Essang
-(12) Sam Esidem
+(10) Joe-smith Essang
+
