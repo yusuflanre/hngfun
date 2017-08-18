@@ -1,16 +1,10 @@
 <<<<<<< HEAD
-
-name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer" 
-(1) Nwanze Franklin, franko4don, @franko4don
-=======
-<<<<<<< HEAD
 <<<<<<< HEAD
 
 =======
 =======
 >>>>>>> 5f77f68cdbee7b608956c48f6d78ef36c02565ef
 (1) Nwanze Franklin
->>>>>>> 846f85b014c25a69abb3aa76821a436ac1d44090
 (2) Dare Sunday
 (3) Richard Umoffia (github: hackafro) (slack: richyafro)
 (4) Fregene Efe-Uririn, efefregene, efefregene 
@@ -42,8 +36,6 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 >>>>>>> 0ad6cf3c07696984b8c546b8f77bb8ce3ce97830
 =======
 (26) Akinlolu Gbemisola John, (slack: @akinlolugbemisola) (github: G-oracle)
-<<<<<<< HEAD
-(29) Ojo Oreoluwa Victor, (slack: @ogbeniore) (github: @OreoluwaOjo)
-=======
->>>>>>> 846f85b014c25a69abb3aa76821a436ac1d44090
 >>>>>>> 3e21b3c8b81172a85f5af7f33f864075a5444e6a
+(27) Okunniga Tosin, (github: Teegold007) (slack:teegoldz)
+(28) Olatunbosun Gabriel, @bosunski, bosunski
