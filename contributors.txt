@@ -7,11 +7,9 @@
 (7) Sam Esidem
 (8) Toluwalope Yussuff
 (9) Damilola Shofoluwe
-(10) Sam Esidem
-(11) Joe-smith Essang
-(12) Sam Esidem
-(13) Emmanuel Promise Ozibo
-(14) Joe-smith Essang
-(15) John Otu
-(16) Alaba Mustapha
-(17) Adeshina Ibrahim
+(10) Joe-smith Essang
+(11) Emmanuel Promise Ozibo
+(12) Joe-smith Essang
+(13) John Otu
+(14) Alaba Mustapha
+(15) Adeshina Ibrahim
