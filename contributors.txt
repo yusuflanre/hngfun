@@ -12,7 +12,7 @@
 (6) Chinke Ifeyinwa Ruth
 (7) Sam Esidem
 (8) Toluwalope Yussuff
-(9) Damilola Shofoluwe (github:ddamox) (slack:dspencer)
+(9) Damilola Shofoluwe (github: ddamox) (slack: dspencer)
 (10) Joe-smith Essang
 (11) Emmanuel Promise Ozibo
 (12) Joe-smith Essang
