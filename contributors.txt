@@ -41,4 +41,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (40) Chike Ononye, @chykeofficial, kosychike 
 (41) Damilola Omoyiwola, @princessdee, damomos
 (42) Dike Thelma, @dikethelmak, matilbella
-
+(43) Osideinde Oluwadara, @holumiede, holumiede
