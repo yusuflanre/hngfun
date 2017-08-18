@@ -1,6 +1,24 @@
-(1) Nwanze Franklin
+
+name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer" 
+(1) Nwanze Franklin, franko4don, @franko4don
 (2) Dare Sunday
-(3) Richard Umoffia
-(4) Fregene Efe-Uririn
-(5) Oreoluwa Ojo
-(6) Damilola Shofoluwe 
+(3) Richard Umoffia (github: hackafro) (slack: richyafro)
+(4) Fregene Efe-Uririn, efefregene, efefregene 
+(5) Joe-smith Essang
+(6) Chinke Ifeyinwa Ruth (github: eephie) (slack: ifychinke)
+(7) Sam Esidem
+(8) Toluwalope Yussuff
+(9) Damilola Shofoluwe
+(10) Joe-smith Essang
+(11) Emmanuel Promise Ozibo
+(12) Joe-smith Essang
+(13) John Otu
+(14) Alaba Mustapha
+(15) Adeshina Ibrahim
+(16) Ogunbadejo Lateef, lateefogunbadejo, Lateef-OG
+(17) Adegbola Simeon
+(18) Michael Okoh, @trojan, ichtrojan
+(19) David Ukauwa
+(20) Andrew Ugbechie, (slack: @andrewugbechie) (github: @DREW-certified)
+(21) Oreoluwa Ojo (slack: @ogbeniore) (github: @OreoluwaOjo)
+
