@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer" 
-=======
-=======
->>>>>>> 5f77f68cdbee7b608956c48f6d78ef36c02565ef
-(1) Nwanze Franklin
+(1) Nwanze Franklin, franko4don, @franko4don
 (2) Dare Sunday
 (3) Richard Umoffia (github: hackafro) (slack: richyafro)
 (4) Fregene Efe-Uririn, efefregene, efefregene 
