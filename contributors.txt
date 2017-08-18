@@ -1,8 +1,25 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer" 
 =======
+=======
+>>>>>>> 5f77f68cdbee7b608956c48f6d78ef36c02565ef
 (1) Nwanze Franklin
 (2) Dare Sunday
-(3) Richard Umoffia
-(4) Fregene Efe-Uririn
->>>>>>> 1db05d39bbf08a91bb49f36571c26e92889615a9
+(3) Richard Umoffia (github: hackafro) (slack: richyafro)
+(4) Fregene Efe-Uririn, efefregene, efefregene 
+(5) Joe-smith Essang
+(6) Chinke Ifeyinwa Ruth
+(7) Sam Esidem
+(8) Toluwalope Yussuff
+(9) Damilola Shofoluwe
+(10) Joe-smith Essang
+(11) Emmanuel Promise Ozibo
+(12) Joe-smith Essang
+(13) John Otu
+(14) Alaba Mustapha
+(15) Adeshina Ibrahim
+(16) Ogunbadejo Lateef, lateefogunbadejo, Lateef-OG
+(17) Adegbola Simeon
+(18) Michael Okoh, @trojan, ichtrojan
+(19) David Ukauwa
