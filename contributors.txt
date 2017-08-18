@@ -6,7 +6,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (5) Joe-smith Essang
 (6) Chinke Ifeyinwa Ruth (github: eephie) (slack: ifychinke)
 (7) Sam Esidem
-(8) Toluwalope Yussuff, tody, to-dy 
+(8) Toluwalope Yussuff, tody, to-dy
 (9) Damilola Shofoluwe (github: ddamox) (slack: dspencer)
 (10) Joe-smith Essang
 (11) Emmanuel Promise Ozibo
@@ -32,7 +32,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (31) Olatunbosun Gabriel, @bosunski, bosunski
 (32) Alexandrix Ikechukwu, cornevan, SpaghettiThots
 (33) Okwu Joscelyn Kinikachi, slack: joscelyn56, github: joscelyn56
-(34) Prosper Nweze [github:@prosperoking] [slack:@prosperoking]
+(34) Prosper Nweze, @prosperoking ,@prosperoking 
 (35) Okunniga Tosin, (github: Teegold007) (slack:teegoldz)
 (36) Olatunbosun Gabriel, @bosunski, bosunski
 (37) Alexandrix Ikechukwu, cornevan, SpaghettiThots
