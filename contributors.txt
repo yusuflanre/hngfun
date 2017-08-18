@@ -24,5 +24,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (23) Usheninte Dangana [github: @Usheninte] [slack: @ninte]
 (24) Daniella Mato, @daniella, dmpire
 (25) Ademola Abisayo Paul, @sayopaul , sayopaul2
-(26) Enyi-Christopher Joshua, christofajosh, christofajosh 
-(27) Akunne Obinna, (slack : obinna_akunne), (github: thirdwrist)
+(26) Akinlolu Gbemisola John, (slack: @akinlolugbemisola) (github: G-oracle)
