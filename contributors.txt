@@ -34,3 +34,6 @@
 (26) Enyi-Christopher Joshua, christofajosh, christofajosh 
 (27) Akunne Obinna, (slack : obinna_akunne), (github: thirdwrist)
 >>>>>>> 0ad6cf3c07696984b8c546b8f77bb8ce3ce97830
+=======
+(26) Akinlolu Gbemisola John, (slack: @akinlolugbemisola) (github: G-oracle)
+>>>>>>> 3e21b3c8b81172a85f5af7f33f864075a5444e6a
