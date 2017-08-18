@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Damilola Shofoluwe 
+name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer" 
 =======
 (1) Nwanze Franklin
 (2) Dare Sunday
