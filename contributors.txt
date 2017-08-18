@@ -1,9 +1,10 @@
-(1) Nwanze Franklin
+name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer" 
+(1) Nwanze Franklin, franko4don, @franko4don
 (2) Dare Sunday
 (3) Richard Umoffia (github: hackafro) (slack: richyafro)
 (4) Fregene Efe-Uririn, efefregene, efefregene 
 (5) Joe-smith Essang
-(6) Chinke Ifeyinwa Ruth
+(6) Chinke Ifeyinwa Ruth (github: eephie) (slack: ifychinke)
 (7) Sam Esidem
 (8) Toluwalope Yussuff, tody, to-dy
 (9) Damilola Shofoluwe (github: ddamox) (slack: dspencer)
@@ -27,11 +28,11 @@
 (26) Enyi-Christopher Joshua, christofajosh, christofajosh 
 (27) Akunne Obinna, (slack : obinna_akunne), (github: thirdwrist)
 (26) Akinlolu Gbemisola John, (slack: @akinlolugbemisola) (github: G-oracle)
-Okwu Joscelyn Kinikachi, slack: joscelyn56, github: joscelyn56
-
-
-Prosper Nweze [github:@prosperoking] [slack:@prosperoking]
-
+(27) Akunne Obinna, (slack : obinna_akunne), (github: thirdwrist)
+(26) Ojo Oreoluwa Victor, (slack: @ogbeniore) (github: @OreoluwaOjo)
 (27) Okunniga Tosin, (github: Teegold007) (slack:teegoldz)
 (28) Olatunbosun Gabriel, @bosunski, bosunski
 (29) Alexandrix Ikechukwu, cornevan, SpaghettiThots
+Okwu Joscelyn Kinikachi, slack: joscelyn56, github: joscelyn56
+Prosper Nweze [github:@prosperoking] [slack:@prosperoking]
+(30) Donald Mezie slack:@snowweb , Github:Nobsmoke123
