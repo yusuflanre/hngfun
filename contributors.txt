@@ -2,18 +2,11 @@
 (2) Dare Sunday
 (3) Richard Umoffia
 (4) Fregene Efe-Uririn
-<<<<<<< HEAD
 (5) Joe-smith Essang
 (6) Chinke Ifeyinwa Ruth
-=======
-(5) Sam Esidem
->>>>>>> fa98281f13ff544454686cfbcec5536a45cc1fcd
->>>>>>> 1db05d39bbf08a91bb49f36571c26e92889615a9
->>>>>>> b1e703a8aac9aa6abdb1fbc33abbf4ff24a466e6
-=======
-(5) Toluwalope Yussuff
-(6) Damilola Shofoluwe
 (7) Sam Esidem
-(8) Joe-smith Essang
-(9) Sam Esidem
->>>>>>> cd3ea4aae9162028e810d3e82ec7a38d77041714
+(8) Toluwalope Yussuff
+(9) Damilola Shofoluwe
+(10) Sam Esidem
+(11) Joe-smith Essang
+(12) Sam Esidem
