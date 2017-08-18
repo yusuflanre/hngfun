@@ -21,3 +21,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (20) Andrew Ugbechie, (slack: @andrewugbechie) (github: @DREW-certified)
 (21) Ijaware Tiwaloluwa (slack: tiwaloluu) (github: tiwalolu)
 (22) Emmanuel Awotunde, @olaoluwa_98, @olaoluwa-98
+(23) Daniella Mato, @daniella, dmpire
