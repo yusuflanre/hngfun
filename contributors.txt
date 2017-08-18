@@ -21,28 +21,22 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (18) Michael Okoh, @trojan, ichtrojan
 (19) David Ukauwa
 (20) Andrew Ugbechie, (slack: @andrewugbechie) (github: @DREW-certified)
-(21) Ijaware Tiwaloluwa (slack: tiwaloluu) (github: tiwalolu)
-(22) Emmanuel Awotunde, @olaoluwa_98, @olaoluwa-98
-(23) Usheninte Dangana [github: @Usheninte] [slack: @ninte]
-(24) Daniella Mato, @daniella, dmpire
-(25) Enyi-Christopher Joshua, christofajosh, christofajosh 
-(25) Ademola Abisayo Paul, @sayopaul , sayopaul2
-(26) Akinlolu Gbemisola John, (slack: @akinlolugbemisola) (github: G-oracle)
-(27) Akunne Obinna, (slack : obinna_akunne), (github: thirdwrist)
-(26) Ojo Oreoluwa Victor, (slack: @ogbeniore) (github: @OreoluwaOjo)
-(27) Okunniga Tosin, (github: Teegold007) (slack:teegoldz)
-(28) Olatunbosun Gabriel, @bosunski, bosunski
-(29) Alexandrix Ikechukwu, cornevan, SpaghettiThots
-Okwu Joscelyn Kinikachi, slack: joscelyn56, github: joscelyn56
+(22) Ijaware Tiwaloluwa (slack: tiwaloluu) (github: tiwalolu)
+(23) Emmanuel Awotunde, @olaoluwa_98, @olaoluwa-98
+(24) Usheninte Dangana [github: @Usheninte] [slack: @ninte]
+(25) Daniella Mato, @daniella, dmpire
+(26) Enyi-Christopher Joshua, christofajosh, christofajosh 
+(27) Ademola Abisayo Paul, @sayopaul , sayopaul2
+(28) Akinlolu Gbemisola John, (slack: @akinlolugbemisola) (github: G-oracle)
+(29) Akunne Obinna, (slack : obinna_akunne), (github: thirdwrist)
+(30) Ojo Oreoluwa Victor, (slack: @ogbeniore) (github: @OreoluwaOjo)
+(31) Okunniga Tosin, (github: Teegold007) (slack:teegoldz)
+(32) Olatunbosun Gabriel, @bosunski, bosunski
+(33) Alexandrix Ikechukwu, cornevan, SpaghettiThots
+(34) Okwu Joscelyn Kinikachi, slack: joscelyn56, github: joscelyn56
+(35) Prosper Nweze [github:@prosperoking] [slack:@prosperoking]
+(36) Okunniga Tosin, (github: Teegold007) (slack:teegoldz)
+(37) Olatunbosun Gabriel, @bosunski, bosunski
+(38) Alexandrix Ikechukwu, cornevan, SpaghettiThots
+(39) Donald Mezie slack:@snowweb , Github:Nobsmoke123
 
-
-
-
-
-Prosper Nweze [github:@prosperoking] [slack:@prosperoking]
-
-(27) Okunniga Tosin, (github: Teegold007) (slack:teegoldz)
-(28) Olatunbosun Gabriel, @bosunski, bosunski
-(29) Alexandrix Ikechukwu, cornevan, SpaghettiThots
-(30) Donald Mezie slack:@snowweb , Github:Nobsmoke123
->>>>>>> 4d05fc287605cb57a15a48a97c6ae5d68f7240cc
