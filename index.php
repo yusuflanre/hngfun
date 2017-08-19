@@ -49,6 +49,7 @@
                 font-size: 84px;
             }
 
+
             .links > a {
                 color: #636b6f;
                 padding: 0 25px;
@@ -58,6 +59,7 @@
                 text-decoration: none;
                 text-transform: uppercase;
             }
+
 
             .m-b-md {
                 margin-bottom: 30px;
@@ -71,6 +73,9 @@
                     Front Page
                 </div>
                 <p>Would be available soon along with the footer and header</p>
+
+                <p>Please Don't Override someone's work, pull before you push - Team1</p>
+
             </div>
         </div>
     </body>
