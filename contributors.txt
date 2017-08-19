@@ -1,4 +1,4 @@
-(1) Nwanze Franklin, franko4don, @franko4don
+()(1) Nwanze Franklin, franko4don, @franko4don
 (2) Dare Sunday
 (3) Richard Umoffia (github: hackafro) (slack: richyafro)
 (4) Fregene Efe-Uririn, efefregene, efefregene
@@ -9,7 +9,7 @@
 (9) Damilola Shofoluwe (github: ddamox) (slack: dspencer)
 (10) Emmanuel Promise Ozibo
 (11) John Otu, johnotu, johnotu
-(12) Alaba Mustapha
+(12) Alaba Mustapha (github: alabamustapha, slack: alabamustapha)
 (13) Adeshina Ibrahim
 (14) Ogunbadejo Lateef, lateefogunbadejo, Lateef-OG
 (15) Adegbola Simeon
@@ -53,4 +53,12 @@
 (53) Nkwocha Chidi Callistus <Slack: @profchydon, Github: @profchydon>
 (54) Fredrick Uchechukwu Mgbeoma (github: @fuchodeveloper) (slack: @fred)
 (55) USMAN Sakirat Kehinde, oyinkan, @shakirah
+<<<<<<< HEAD
 (56) Egbuna Chukwudi, (slack egbunachukwudi49, github egbuna)
+=======
+(56) Kayode Micheal Olukunle, komsic, komsic
+(57) Mfoniso Umana slack @aspn
+(58) Qudus Yekeen Github: udus97 || Slack:qudusdev
+(59) David favour umoren(github:@davidumoren, slack: @dxelpraise)
+(60) Etim, Nse-Abasi Joseph <Slack: @etimnseabasi, github: @nseetim>
+>>>>>>> d3232754d1bb174479d5e643299101287320bef9
