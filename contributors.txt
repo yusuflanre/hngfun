@@ -11,7 +11,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (10) Joe-smith Essang
 (11) Emmanuel Promise Ozibo
 (12) Joe-smith Essang
-(13) John Otu, johnotu, johnotu
+(13) John Otu
 (14) Alaba Mustapha
 (15) Adeshina Ibrahim
 (16) Ogunbadejo Lateef, lateefogunbadejo, Lateef-OG
@@ -40,6 +40,5 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (39) Ukeje Kingsley Ugochukwu (github: swissking009, slack: rogue.kvng)
 (40) Chike Ononye, @chykeofficial, kosychike 
 (41) Damilola Omoyiwola, @princessdee, damomos
-(42) Dike Thelma, @dikethelmak, matilbella
-(44) Ayodeji Bayo-Makinde, ayobaymak, ayobaymak
+(42) Hogan Damilola Jerry, <slack:@hdaarme> <github: hdjerry>
 
