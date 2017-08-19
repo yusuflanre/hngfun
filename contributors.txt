@@ -30,14 +30,14 @@
 (30) Alexandrix Ikechukwu, cornevan, SpaghettiThots
 (31) Okwu Joscelyn Kinikachi, slack: joscelyn56, github: joscelyn56
 (32) Prosper Nweze, @prosperoking ,@prosperoking 
-(34) Olatunbosun Gabriel, @bosunski, bosunski
-(35) Donald Mezie slack:@snowweb , Github:Nobsmoke123
-(36) Ukeje Kingsley Ugochukwu (github: swissking009, slack: rogue.kvng)
-(37) Chike Ononye, @chykeofficial, kosychike 
-(38) Damilola Omoyiwola, @princessdee, damomos
-(39) Dike Thelma, @dikethelmak, matilbella
-(40) Hogan Damilola Jerry, <slack:@hdaarme> <github: hdjerry>
-(41) James James John, @jamesjay4199, @jamesjay4199
-(42) Osideinde Oluwadara, @holumiede, holumiede
-(43) Ayodeji Bayo-Makinde, ayobaymak, ayobaymak
-(44) Agunloye Oluwatobiloba, (GitHub: @TobiLight, Slack: tobilight)
+(33) Olatunbosun Gabriel, @bosunski, bosunski
+(34) Donald Mezie slack:@snowweb , Github:Nobsmoke123
+(35) Ukeje Kingsley Ugochukwu (github: swissking009, slack: rogue.kvng)
+(36) Chike Ononye, @chykeofficial, kosychike 
+(37) Damilola Omoyiwola, @princessdee, damomos
+(38) Dike Thelma, @dikethelmak, matilbella
+(39) Hogan Damilola Jerry, <slack:@hdaarme> <github: hdjerry>
+(40) James James John, @jamesjay4199, @jamesjay4199
+(41) Osideinde Oluwadara, @holumiede, holumiede
+(42) Ayodeji Bayo-Makinde, ayobaymak, ayobaymak
+(43) Agunloye Oluwatobiloba, (GitHub: @TobiLight, Slack: tobilight)
