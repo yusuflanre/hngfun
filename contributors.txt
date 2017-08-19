@@ -53,17 +53,12 @@
 (53) Nkwocha Chidi Callistus <Slack: @profchydon, Github: @profchydon>
 (54) Fredrick Uchechukwu Mgbeoma (github: @fuchodeveloper) (slack: @fred)
 (55) USMAN Sakirat Kehinde, oyinkan, @shakirah
-<<<<<<< HEAD
 (56) Egbuna Chukwudi, (slack egbunachukwudi49, github egbuna)
-=======
-(56) Kayode Micheal Olukunle, komsic, komsic
-(57) Mfoniso Umana slack @aspn
-(58) Qudus Yekeen Github: udus97 || Slack:qudusdev
-(59) David favour umoren(github:@davidumoren, slack: @dxelpraise)
-(60) Etim, Nse-Abasi Joseph <Slack: @etimnseabasi, github: @nseetim>
-<<<<<<< HEAD
->>>>>>> d3232754d1bb174479d5e643299101287320bef9
-=======
-(61) Akindolie Oluwatayo Slack: @akindolietayo Github: its-tayo
-(62) Francis Benson (Slack: @alejandro Github: @ECFK75C8)
->>>>>>> 0c13e93ae9265685d38842cb997c916605e767b5
+(57) Kayode Micheal Olukunle, komsic, komsic
+(58) Mfoniso Umana slack @aspn
+(59) Qudus Yekeen Github: udus97 || Slack:qudusdev
+(60) David favour umoren(github:@davidumoren, slack: @dxelpraise)
+(61) Etim, Nse-Abasi Joseph <Slack: @etimnseabasi, github: @nseetim>
+(62) Akindolie Oluwatayo Slack: @akindolietayo Github: its-tayo
+(63) Francis Benson (Slack: @alejandro Github: @ECFK75C8)
+(64) Adetunji William (Slack: @willade Github: @willade)
