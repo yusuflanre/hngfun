@@ -38,7 +38,7 @@
                                 <a href="#">Home</a>
                             </li>
                             <li>
-                                <a href="about.php">About</a>
+                                <a href="http://hng.fun/about.php">About</a>
                             </li>
                             <li>
                                 <a href="#">Participants</a>
