@@ -1,4 +1,4 @@
-()(1) Nwanze Franklin, franko4don, @franko4don
+(1) Nwanze Franklin, franko4don, @franko4don
 (2) Dare Sunday
 (3) Richard Umoffia (github: hackafro) (slack: richyafro)
 (4) Fregene Efe-Uririn, efefregene, efefregene
@@ -67,3 +67,4 @@
 (67) Trust Akpobome (Slack: @controltam Github: @controltam)
 (68) Rachael Iwelunmor (github: rachaeliwelunmor) (slack: rachael_iwelunmor)
 (69) Gabriel Uzowulu (GitHUb: @emyguz) (Slack: @gabrieluzowulu)
+(70) Ukor Jidechi Ekundayo (Slack: @ukorjidechi, github: ukor)
