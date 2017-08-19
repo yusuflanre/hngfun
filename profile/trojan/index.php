@@ -180,7 +180,19 @@
                 <p>Software Engineer - ntel || Software Engineer - Tsaboin || CTO - autohub.ng || CEO - Okoh</p>
             </div>
         </div>
-        <div class="content">
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        <div>
         <ul class="social-icons">
             <li><a href="https://github.com/ichtrojan" class="social-icon"> <i class="fa fa-github"></i></a></li>
             <li><a href="https://hnginterns.slack.com/messages/@trojan" class="social-icon"> <i class="fa fa-slack"></i></a></li>
