@@ -66,4 +66,6 @@
 (66) Orie Chinedu Emmanuel (Slack: @oriechinedu Github: @oriechinedu)
 (67) Trust Akpobome (Slack: @controltam Github: @controltam)
 (68) Rachael Iwelunmor (github: rachaeliwelunmor) (slack: rachael_iwelunmor)
-(69)Adeboga Abigail Slack:@bogadeji Github:bogadeji
+(69) Gabriel Uzowulu (GitHUb: @emyguz) (Slack: @gabrieluzowulu)
+(70) Adeboga Abigail, Slack:@bogadeji Github:bogadeji
+
