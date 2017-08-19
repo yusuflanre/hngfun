@@ -47,3 +47,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (46) Atauba Prince M. (slack: @achowba, github: @achowba)
 (47) Rex Orioko (Slack: @rexorioko, Github: @KingJavaJava)
 (48) Okoh Ify   (slack: @ify, github: @Ifyokoh)
+(49) Rachael Iwelunmor (github: rachaeliwelunmor) (slack: rachael_iwelunmor)
