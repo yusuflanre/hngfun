@@ -11,7 +11,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (10) Joe-smith Essang
 (11) Emmanuel Promise Ozibo
 (12) Joe-smith Essang
-(13) John Otu
+(13) John Otu, johnotu, johnotu
 (14) Alaba Mustapha
 (15) Adeshina Ibrahim
 (16) Ogunbadejo Lateef, lateefogunbadejo, Lateef-OG
