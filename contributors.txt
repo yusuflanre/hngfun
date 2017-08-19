@@ -45,3 +45,4 @@
 (45) Okeke Abuchi, (Slack: @7thmind, Github: Buchiexplores)
 (46) Joseph Michael Basssey, (Slack Name: @jonesky, github: @Joseph-MB)
 (47) Hameed Abdul-lateef Ayomide, devayo, hamdal
+(48) Fredrick Uchechukwu Mgbeoma (github: @fuchodeveloper) (slack: @fred)
