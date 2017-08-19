@@ -49,6 +49,7 @@
                 font-size: 84px;
             }
 
+<<<<<<< HEAD
             .links > a {
                 color: #636b6f;
                 padding: 0 25px;
@@ -59,6 +60,8 @@
                 text-transform: uppercase;
             }
 
+=======
+>>>>>>> 46b15f448872d2fc8c74343392d2563c93113ff5
             .m-b-md {
                 margin-bottom: 30px;
             }
@@ -71,6 +74,10 @@
                     Front Page
                 </div>
                 <p>Would be available soon along with the footer and header</p>
+<<<<<<< HEAD
+=======
+                <p>Please Don't Override someone's work, pull before you push - Team1</p>
+>>>>>>> 46b15f448872d2fc8c74343392d2563c93113ff5
             </div>
         </div>
     </body>
