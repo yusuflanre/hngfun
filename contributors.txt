@@ -56,3 +56,4 @@
 (56) Dansu Sejoro (Github: @sej-mettabel, slack: @sej)
 (57) Kayode Micheal Olukunle, komsic, komsic
 (58) Mfoniso Umana slack @aspn
+(59) Qudus Yekeen Github: udus97 || Slack:qudusdev
