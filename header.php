@@ -22,7 +22,7 @@
     <!--Google Webfonts-->
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
 </head>
-<body>
+<body class="participants">
 
 <div id="wrapper">
     <header id="banner" class="scrollto clearfix" data-enllax-ratio=".5">
